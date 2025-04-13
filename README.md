@@ -5,21 +5,15 @@ Este proyecto tiene como objetivo generar una lista de las **combinaciones** de 
 
 ## Requisitos del Sistema 🖥
 
-Para compilar y ejecutar el proyecto, se recomienda:
-
-- **Compilador:** Se recomienda Microsoft Visual Studio 2022, Codeblocks ó cualquier copilador C++
-
-- **Almacenamiento csv:** Se recomienda un software que procese archivos csv (Ejemplo: Excel)
-
-- **Entorno de Desarrollo:** Code::Blocks y Visual Studio 2022
+- **Compilador C++:** Microsoft Visual Studio 2022, Code::Blocks o cualquier compilador compatible con C++ (de preferencia usar Microsoft Visual Studio 2022).
+- **Procesador de archivos CSV:** Microsoft Excel, LibreOffice Calc u otra herramienta compatible.
+- **Entorno de desarrollo recomendado:** Visual Studio 2022.
  
 ## Instrucciones de compilación y ejecución 📜
-Estas son las instrucciones recomendadas para poder ejecutar el código
-1. Tener un copilador de C++ (Por ejemplo, g++, codeblocks ó visual studio)
-2. Guarda el código fuente en un archivo llamado, por ejemplo, `combinaciones.cpp`
-3. Abre una terminal o consola de comandos y navega hasta el directorio donde se encuentra el archivo.
-4. Compila el programa usando: `g++ combinaciones.cpp -o combinaciones`
-5. Ejecuta el programa `./combinaciones` ó si estas en windows, `combinaciones.exe`
+1. Clona este repositorio o descarga el código fuente.
+2. Abra el archivo `"Enlistar combinaciones Vis.sln"` que esta adentro de `"Combinaciones_proyecto"`.
+3. Compila el programa.
+4. Ejecuta el ejecutable generado.
 
 El archivo `combinaciones.csv` se generará en el mismo directorio donde se ejecutó el programa.
 
