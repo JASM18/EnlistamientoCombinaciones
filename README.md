@@ -18,7 +18,7 @@ Este proyecto tiene como objetivo generar una lista de las **combinaciones** de 
 El archivo `combinaciones.csv` se generará en el mismo directorio donde se ejecutó el programa.
 
 ## Funcionamiento ⚙️
-### Explicación del algoritmo
+### Explicación del algoritmo 🤖
 La cantidad de combinaciones/subconjuntos está definida por $`C (n,r)`$ donde `n` es un entero positivo `!= 0` y `r` es un entero delimitado en el rango `0 <= r <= n`.
 Si `r` es `0`, entonces no existen combinaciones posibles, sin embargo, cuando `r` es diferente de `0`, entonces se genera en un archivo csv con el nombre de `"combinaciones.csv"` en donde se enlistan las combinaciones posibles ordenadas en orden lexicográfico.
 
